@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atv4", "atv4\atv4.csproj", "{643AC65B-5AD6-4641-905E-987F1CF87A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643AC65B-5AD6-4641-905E-987F1CF87A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643AC65B-5AD6-4641-905E-987F1CF87A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643AC65B-5AD6-4641-905E-987F1CF87A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643AC65B-5AD6-4641-905E-987F1CF87A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
